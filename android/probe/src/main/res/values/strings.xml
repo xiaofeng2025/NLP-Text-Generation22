@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">通话硬件探测</string>
+    <string name="btn_scan">重新扫描</string>
+    <string name="btn_camera2">Camera2 预览</string>
+    <string name="btn_uvc">UVC 预览</string>
+    <string name="btn_audio">录音 5 秒并回放</string>
+    <string name="btn_stop">停止预览</string>
+    <string name="btn_save">保存报告</string>
+    <string name="status_idle">按遥控器方向键选择按钮，按确认键执行。\n建议顺序：Camera2 预览 → UVC 预览 → 录音回放 → 保存报告。</string>
+</resources>
